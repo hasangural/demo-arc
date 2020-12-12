@@ -6,7 +6,7 @@ metadata:
 spec:
   releaseName: hello-arc-prod
   chart:
-    git: https://github.com/likamrat/hello_arc.git
+    git: https://github.com/hasangural/demo-arc.git
     path: charts/hello-arc
     ref: master
   values:
