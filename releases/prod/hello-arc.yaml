@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Mshowtov3-testarc - AzureArc enabled K8s GitOps Demo! Sunday
+      value: Azure Arc enabled K8s GitOps Demo!
