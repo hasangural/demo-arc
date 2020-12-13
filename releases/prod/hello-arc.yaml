@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Arc enabled K8s GitOps Demo!
+      value: MsHowto-Arc enabled K8s GitOps Demo!
